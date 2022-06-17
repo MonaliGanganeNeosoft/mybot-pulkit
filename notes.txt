@@ -1,0 +1,9 @@
+1]create agent
+->go to google develper console
+->create new project id
+->go to service accounts
+->keys to be json format create
+->Iam roles->owner both
+->create service for project->give owner permission both mail and project id(denied permission)
+->enable service account for google api is imp from google devloper console(denied permission) solved
+{https://console.cloud.google.com/apis/api/dialogflow.googleapis.com/metrics?project=dummy-create-agent}
